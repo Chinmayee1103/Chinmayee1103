@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🛠 About Me
 - 🎓 **Computer Science and Engineering (CSE) Undergrad**
 - 💻 Passionate about **Android development** ,**Web development** and **UI/UX designing**
-- 🌱 Currently learning **Full stack**, and exploring **innovative technologies**
+- 🌱 Currently learning **Full stack** and exploring **innovative technologies**
 
 ## 🔧 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
