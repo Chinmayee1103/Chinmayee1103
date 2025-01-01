@@ -26,8 +26,15 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 📫 Let's Connect!
 
-## 📫 Let's Connect!
-- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white): [chinmayee.bhat.n@gmail.com](mailto:chinmayee.bhat.n@gmail.com)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white): [Chinmayee1103](https://github.com/Chinmayee1103)
-
+<div align="center">
+  <a href="mailto:chinmayee.bhat.n@gmail.com">
+    <img src="./assets/email.png" alt="Email" width="50" style="margin-right: 10px;">
+  </a>
+  <a href="https://github.com/Chinmayee1103">
+    <img src="./assets/github.jpg" alt="GitHub" width="50" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/chinmayee-n-82031a269/">
+    <img src="./assets/linkdin.jpg" alt="LinkedIn" width="50" style="margin-right: 10px;">
+  </a>
+</div>
 
