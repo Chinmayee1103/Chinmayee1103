@@ -28,12 +28,12 @@ Welcome to my GitHub profile! Here's a little about me:
 
 <<div style="text-align: left; padding: 20px;">
   <a href="mailto:chinmayee.bhat.n@gmail.com">
-    <img src="./assets/email.png" alt="Email" width="50" style="margin: 80px;">
+    <img src="./assets/email.png" alt="Email" width="40" style="margin: 80px;">
   </a>
   <a href="https://github.com/Chinmayee1103">
-    <img src="./assets/github.jpg" alt="GitHub" width="50" style="margin: 80px;">
+    <img src="./assets/github.jpg" alt="GitHub" width="40" style="margin: 80px;">
   </a>
   <a href="https://www.linkedin.com/in/chinmayee-n-82031a269/">
-    <img src="./assets/linkdin.jpg" alt="LinkedIn" width="50" style="margin: 80px;">
+    <img src="./assets/linkdin.jpg" alt="LinkedIn" width="40" style="margin: 80px;">
   </a>
 </div>
