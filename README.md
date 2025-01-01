@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🛠 About Me
 - 🎓 **4th-year Computer Science and Engineering (CSE) student**
-- 💻 Passionate about **Android development** and **Web development**
+- 💻 Passionate about **Android development** ,**Web development** and **UI/UX designing**
 - 🌱 Currently learning **Flutter**, **HTML**, **CSS**, **JavaScript**, and exploring **innovative technologies**
 
 ## 🔧 Languages
@@ -20,9 +20,6 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🌟 Interests
-- 🔒 **Cybersecurity**
-- 🎨 **UI/UX Designing**
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmayee1103&layout=compact&theme=dracula)
