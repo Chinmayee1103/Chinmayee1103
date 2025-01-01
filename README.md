@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🛠 About Me
 - 🎓 **Computer Science and Engineering (CSE) Undergrad**
-- 💻 Passionate about **Android development** ,**Web development** and **UI/UX designing**
+- 💻 Passionate about **Android development**, **Web development**, and **UI/UX designing**
 - 🌱 Currently learning **Full stack** and exploring **innovative technologies**
 
 ## 🔧 Languages
@@ -20,13 +20,14 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmayee1103&layout=compact&theme=dracula)
 
-## 📫 Let's Connect!
+## 📈 GitHub Stats
+![Chinmayee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chinmayee1103&show_icons=true&theme=dracula)
 
-<<div style="text-align: left; padding: 20px;">
+## 📫 Let's Connect!
+<div style="text-align: left; padding: 20px;">
   <a href="mailto:chinmayee.bhat.n@gmail.com">
     <img src="./assets/email.png" alt="Email" width="40" style="margin: 80px;">
   </a>
