@@ -9,16 +9,16 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🔧 Languages and Tools
 <div>
-  <img src="assets/java.jpg" a width="100">
-  <img src="assets/c.jpg"  width="100">
-  <img src="assets/flutter.jpg"  width="100">
-  <img src="assets/html.jpg"  width="100">
-  <img src="assets/css.jpg"  width="100">
-  <img src="assets/javascript.jpg"  width="100">
-  <img src="assets/mysql.jpg"  width="100">
-  <img src="assets/firebase.jpg" width="100">
-  <img src="assets/mongodb.jpg"  width="100">
-  <img src="assets/vscode.jpg" width="100">
+  <img src="assets/java.jpg" a width="70">
+  <img src="assets/c.jpg"  width="70">
+  <img src="assets/flutter.jpg"  width="70">
+  <img src="assets/html.jpg"  width="70">
+  <img src="assets/css.jpg"  width="70">
+  <img src="assets/javascript.jpg"  width="70">
+  <img src="assets/mysql.jpg"  width="70">
+  <img src="assets/firebase.jpg" width="70">
+  <img src="assets/mongodb.jpg"  width="70">
+  <img src="assets/vscode.jpg" width="70">
 </div>
 
 ## 📊 Most Used Languages
