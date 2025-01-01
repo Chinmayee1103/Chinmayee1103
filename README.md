@@ -7,18 +7,19 @@ Welcome to my GitHub profile! Here's a little about me:
 - 💻 Passionate about **Android development**, **Web development**, and **UI/UX designing**
 - 🌱 Currently learning **Full stack** and exploring **innovative technologies**
 
-## 🔧 Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🔧 Languages and Tools
+<div>
+  <img src="assets/java.jpg" a width="100">
+  <img src="assets/c.jpg"  width="100">
+  <img src="assets/flutter.jpg"  width="100">
+  <img src="assets/html.jpg"  width="100">
+  <img src="assets/css.jpg"  width="100">
+  <img src="assets/javascript.jpg"  width="100">
+  <img src="assets/mysql.jpg"  width="100">
+  <img src="assets/firebase.jpg" width="100">
+  <img src="assets/mongodb.jpg"  width="100">
+  <img src="assets/vscode.jpg" width="100">
+</div>
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmayee1103&layout=compact&theme=dracula)
