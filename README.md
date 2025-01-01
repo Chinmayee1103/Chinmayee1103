@@ -25,5 +25,6 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmayee1103&layout=compact&theme=dracula)
 
 ## 📫 Let's Connect!
-- Email: [chinmayee.bhat.n@gmail.com](mailto:chinmayee.bhat.n@gmail.com)
-- GitHub: [Chinmayee1103](https://github.com/Chinmayee1103)
+- ![Email](./assets/email.png): [chinmayee.bhat.n@gmail.com](mailto:chinmayee.bhat.n@gmail.com)
+- ![GitHub](./assets/github.jpg): [Chinmayee1103](https://github.com/Chinmayee1103)
+- ![LinkedIn](./assets/linkdin.jpg): [LinkedIn Profile](https://www.linkedin.com/in/chinmayee-n-82031a269/)
